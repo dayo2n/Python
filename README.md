@@ -6,4 +6,4 @@
 
           📂 BASIC : wikidocs.net/101632 
 
-                    왕초보를 위한 Pyhton
+                    왕초보를 위한 Python
