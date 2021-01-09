@@ -1,8 +1,8 @@
 # Python
 
-###Python 스터디 내용을 업로드하는 공간
+### Python 스터디 내용을 업로드하는 공간
 
-#####Jupyter Notebook (ANACONDA3) 🐍
+##### Jupyter Notebook (ANACONDA3) 🐍
 
           📂 BASIC : wikidocs.net/101632 
 
